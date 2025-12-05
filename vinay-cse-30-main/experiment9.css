@@ -1,0 +1,30 @@
+.card{
+    box-sizing: border-box;
+    width: 480px;
+    height: 450px;
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.4);
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.container{
+    display: flex;
+    text-align: center;
+}
+.A{
+    align: center;
+     border-radius: 8px;
+     
+    
+}
+.card1{
+    box-sizing: border-box;
+    width: 480px;
+    height: 450px;
+    margin: 0px;
+    padding: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.4);
+    margin-left: 20px;
+    border-radius: 20px;
+}
