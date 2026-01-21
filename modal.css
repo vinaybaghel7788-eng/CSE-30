@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* Open Button */
+.open-btn {
+    padding: 12px 25px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+/* Modal Background */
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+    display: none;
+}
+
+/* Show Modal */
+.modal:target {
+    display: block;
+}
+
+/* Modal Box */
+.content {
+    background: white;
+    width: 300px;
+    margin: 150px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+/* Close Button */
+.close-btn {
+    display: inline-block;
+    margin-top: 15px;
+    color: #007bff;
+    text-decoration: none;
+}
