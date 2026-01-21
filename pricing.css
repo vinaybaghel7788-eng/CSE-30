@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background: #f4f4f4;
+}
+
+.pricing {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.plan {
+    background: white;
+    width: 180px;
+    padding: 30px;
+    margin: 15px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+}
+
+.plan span {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.popular {
+    background: #007bff;
+    color: white;
+}
