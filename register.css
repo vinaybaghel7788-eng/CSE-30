@@ -1,0 +1,12 @@
+body { background:#fce4ec; font-family:Arial; }
+form {
+    width:350px;
+    margin:100px auto;
+    background:white;
+    padding:20px;
+}
+input,button {
+    width:100%;
+    padding:8px;
+    margin:6px 0;
+}
